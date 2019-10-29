@@ -1,0 +1,10 @@
+Package: xyz.skylarmccauley.sileodiatrustheme
+Name: Sileo Diatrus Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Theme for Sileo and Diatrus Installer. Requires Anemone, SnowBoard, or other theme manager.
+Maintainer: TheHacker
+Author: TheHacker
+Section: Themes
+Homepage: https://skylarmccauley.xyz/
+Depiction: http://skylarmccauley.xyz/hacked-repo/depic/xyz.skylarmccauley.sileodiatrustheme/
